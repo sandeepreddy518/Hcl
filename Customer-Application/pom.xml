@@ -6,7 +6,7 @@
 	<groupId>com.hcl.customer</groupId>
 	<artifactId>Customer-Application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Customer-Journey</name>
+	<name>Customer-Application</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
